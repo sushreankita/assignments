@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    text-align: center;
+    padding-top: 40px;
+}
+
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 60%;
+    background-color: white;
+}
+
+/* Table header */
+th {
+    background-color:green;
+    color: white;
+    padding: 12px;
+}
+
+/* Table data */
+td {
+    padding: 10px;
+    border: 1px solid white;
+}
+
+/* Alternate row color */
+tr:nth-child(even) {
+    background-color: white;
+}
+
+/* Hover effect */
+tr:hover {
+    background-color: white;
+}

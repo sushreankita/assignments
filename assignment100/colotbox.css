@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: white;
+}
+
+.box {
+    width: 200px;
+    padding: 30px;
+    margin: 15px auto;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
