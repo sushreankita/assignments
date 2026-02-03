@@ -4,7 +4,7 @@ body {
     background-color:white;
 }
 
-/* Header */
+
 header {
     background-color: green;
     color: white;
@@ -12,17 +12,17 @@ header {
     padding: 40px 20px;
 }
 
-/* Content section */
+
 .content {
     padding: 30px;
     text-align: center;
     background-color: white;
 }
 
-/* Footer */
 footer {
     text-align: center;
     padding: 15px;
     background-color: black;
     color: white;
 }
+
